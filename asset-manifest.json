@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/streamo-OTT/static/css/main.2617607f.css",
+    "main.js": "/streamo-OTT/static/js/main.adbe1cbf.js",
+    "static/media/texure.jpg": "/streamo-OTT/static/media/texure.5fd81b0ea718d21dec89.jpg",
+    "static/media/slick.svg": "/streamo-OTT/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/streamo-OTT/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/streamo-OTT/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/streamo-OTT/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/streamo-OTT/index.html",
+    "main.2617607f.css.map": "/streamo-OTT/static/css/main.2617607f.css.map",
+    "main.adbe1cbf.js.map": "/streamo-OTT/static/js/main.adbe1cbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2617607f.css",
+    "static/js/main.adbe1cbf.js"
+  ]
+}
